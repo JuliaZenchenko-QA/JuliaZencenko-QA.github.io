@@ -1,5 +1,5 @@
 body {
-  font-family: "Helvetica";
+  font-family: "Helvetica", sans-serif;
   background-color: #f2f1f6;
   color: black;
   display: flex;

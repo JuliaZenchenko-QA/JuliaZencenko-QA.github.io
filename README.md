@@ -1,2 +1,2 @@
-# JuliaZencenko-QA.github.io
+# JuliaZenchenko-QA.github.io
 Сайт-визитка на HTML+CSS+JS

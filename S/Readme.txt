@@ -1,2 +1,2 @@
-JuliaZenchenko-QA/JuliaZenchenko-QA.github.io/tree/main/S
+JuliaZenchenko-QA/JuliaZenchenko-QA.github.io/S
 
